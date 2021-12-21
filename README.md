@@ -58,10 +58,3 @@
 ### Sponsor Me 🙏
 
 <a href="https://www.buymeacoffee.com/surajupadhyay"><img src="https://img.buymeacoffee.com/button-api/?text=Support my work here&emoji=👍&slug=surajupadhyay&button_colour=FF5F5F&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00"></a>
-
-### Let's Connect 📱
-
-<a href="https://www.linkedin.com/in/surajupadhyay009/" target="_blank"><img src="https://github.com/MrSquanchee/MrSquanchee/blob/master/LinkedInIcon.png" alt="LinkedIn Logo"></a>
-<a href="https://twitter.com/SurajUpadhyay0" target="_blank"><img src="https://github.com/MrSquanchee/MrSquanchee/blob/master/TwitterLogo.png" alt="Twitter Logo"></a>
-<a href="surajupadhyay.com" target="_blank"><img src="https://github.com/MrSquanchee/MrSquanchee/blob/master/wwwIcon.png" alt="WWW Icon"></a>
-<a href="https://dev.to/mrsquanchee" target="_blank"><img src="https://github.com/MrSquanchee/MrSquanchee/blob/master/dev.png" alt="Dev.to Logo"></a>
